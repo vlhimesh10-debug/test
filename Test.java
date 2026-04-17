@@ -26,12 +26,9 @@ public class Test {
     int m = 20;
     int n = 5;
 
-    if(n != 0){
-      int result3 = m / n;
+   
       System.out.println("The division result is: " + result3);
-    } else {
-      System.out.println("Cannot divide by zero");
-    }
+    
   }
 
   public static void main(String[] args){
