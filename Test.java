@@ -12,7 +12,7 @@ public class Test {
 
   // Division method
   static void div(){
-    int m = 20;
+    int m = 50;
     int n = 5;
     int result3=m/n;
    
